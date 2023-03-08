@@ -1,2 +1,3 @@
 # Power_BI_Portfolio
-This is the PowerBI portfolio.
+## Here are collections of Power BI projects or case study
+
